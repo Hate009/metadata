@@ -1,7 +1,31 @@
 {
   "name": "Quantum Bug",
   "symbol": "QBUG",
+  "description": "Quantum Bug is a community-driven experimental token built to explore the unpredictable side of blockchain. A bug in the system... or the next digital phenomenon?",
   "image": "https://raw.githubusercontent.com/Hate009/metadata/main/Quantumbug.jpg",
   "seller_fee_basis_points": 0,
-  "creators": null
+  "attributes": [
+    { "trait_type": "Origin", "value": "Decentralized" },
+    { "trait_type": "Category", "value": "Meme x Tech" },
+    { "trait_type": "Network", "value": "Solana" }
+  ],
+  "collection": {
+    "name": "Quantumverse",
+    "family": "Quantum Tokens"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Hate009/metadata/main/Quantumbug.jpg",
+        "type": "image/jpg"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "YOUR_WALLET_ADDRESS",
+        "share": 100
+      }
+    ]
+  }
 }
